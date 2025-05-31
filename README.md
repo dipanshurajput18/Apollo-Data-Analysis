@@ -27,16 +27,14 @@ Doctor Name, Feedback Volume
 
 # 🔍 Key Insights from the Dashboard
 ## 🧪 Diagnosis & Financial Trends
-### Top Conditions: Viral Infection (2K+), Flu (1.7K+), Malaria (1.4K+)
-
-### High Revenue Diagnoses: Viral infections and Flu top the billing and insurance charts.
-
-### Insurance Gap: Health insurance payouts consistently fall short of billed amounts across all diagnosis types.
+- Top Conditions: Viral Infection (2K+), Flu (1.7K+), Malaria (1.4K+)
+- High Revenue Diagnoses: Viral infections and Flu top the billing and insurance charts.
+- Insurance Gap: Health insurance payouts consistently fall short of billed amounts across all diagnosis types.
 
 ## 🛏️ Bed Occupancy Patterns
-### Most Used: Private beds lead in occupancy (~3.5K).
-### Moderately Used: General beds follow (~2.5K).
-### Least Used: ICU beds (~1.2K), indicating potential overcapacity or reserved critical care resources.
+- Most Used: Private beds lead in occupancy (~3.5K).
+- Moderately Used: General beds follow (~2.5K).
+- Least Used: ICU beds (~1.2K), indicating potential overcapacity or reserved critical care resources.
 
 ## 👨‍⚕️ Feedback Analysis
 - All doctors received uniform feedback volumes (1.02K), suggesting:
