@@ -66,6 +66,9 @@ Doctor Name, Feedback Volume
 - Doctor-wise feedback volumes
 - Time sliders for patient flow timelines
 
+  ![My Image](Images/Dashboard-Apollo.png)
+
+
 ## 👤 Individual Patient View
 ### Selecting a Patient_ID reveals:
 - Admission, discharge, and follow-up dates
@@ -74,10 +77,10 @@ Doctor Name, Feedback Volume
 - Linked doctor and feedback volume
 
 # ✅ Tools & Technologies
-### Power BI – Dashboard creation, visuals, DAX-based metrics
-### Microsoft Excel – Raw data source
-### Power Query – Data cleansing and shaping
-### DAX – Custom calculations and conditional formatting
+- Power BI – Dashboard creation, visuals, DAX-based metrics
+- Microsoft Excel – Raw data source
+- Power Query – Data cleansing and shaping
+- DAX – Custom calculations and conditional formatting
 
 # 🧾 Conclusion
 This project showcases how hospital operational data can be transformed into powerful visual insights using Power BI. The dashboard offers both macro-level analytics and individual patient views, making it an effective decision-support tool for hospital executives, finance teams, and operations managers alike.
