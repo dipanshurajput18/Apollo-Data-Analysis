@@ -66,7 +66,8 @@ Doctor Name, Feedback Volume
 - Doctor-wise feedback volumes
 - Time sliders for patient flow timelines
 
-![My Image](Images/Dashboard-Apollo.png)
+- <img src = "https://github.com/dipanshurajput18/Apollo-Data-Analysis/blob/main/Images/Dashboard%20-%20Apollo.png">
+
 
 
 ## 👤 Individual Patient View
@@ -75,6 +76,7 @@ Doctor Name, Feedback Volume
 - Diagnosis and bed occupancy details
 - Specific billing and insurance coverage amounts
 - Linked doctor and feedback volume
+- - <img src = "https://github.com/dipanshurajput18/Apollo-Data-Analysis/blob/main/Images/Per%20Patient.png">
 
 # ✅ Tools & Technologies
 - Power BI – Dashboard creation, visuals, DAX-based metrics
