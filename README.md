@@ -66,7 +66,7 @@ Doctor Name, Feedback Volume
 - Doctor-wise feedback volumes
 - Time sliders for patient flow timelines
 
-  ![My Image](Images/Dashboard-Apollo.png)
+![My Image](Images/Dashboard-Apollo.png)
 
 
 ## 👤 Individual Patient View
